@@ -249,17 +249,14 @@ a.bg-success:hover {
 
 /* ********** Media Queries Small ********** */
 @media (max-width: 576px) {
-  .bg-success {
-    background-color: var(--action-color) !important;
-    height: 40px ;
-    width: 130px;
-    margin-bottom: 30px;
-  }
+
   .yoga{
     margin-right: 25px;
     margin-bottom: -20px;
     font-size: 13px;
   }
+  
+
   
 }
 
@@ -285,3 +282,5 @@ a.bg-success:hover {
 @media (min-width: 1200px) {
 
 }
+
+

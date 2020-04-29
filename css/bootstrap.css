@@ -174,14 +174,23 @@ a.bg-success:hover {
 }
 
 /* ********** My Styles ********** */
+.iconos7 {
+  font-size: 3rem;
+}
 .HeroImage {
-  padding: 18%;
-  min-height: calc(100vh + var(--logo-height));
-  background-size:auto;
+  
   background-color: rgb(108, 130, 145);
   background-image: linear-gradient(135deg,rgba(47,145,224,.91),rgba(7,31,51,.97) 79%);
   background-image:linear-gradient(131deg,rgba(28,118,173,.92), rgba(83, 184, 152, 1));
-  overflow: hidden;
+  
+}
+
+.fondo123 {
+  
+  background-color: rgb(108, 130, 145);
+  background-image: linear-gradient(135deg,rgba(47,145,224,.91),rgba(7,31,51,.97) 79%);
+  background-image:linear-gradient(131deg,rgba(28,118,173,.92), rgba(83, 184, 152, 1));
+  
 }
 
 .Services img {
@@ -239,6 +248,9 @@ a.bg-success:hover {
 .u-fullScreen {
   width: 100%;
   min-height: 100vh;
+}
+.Interesado123{
+  margin-top: 70px;
 }
 
 .u-flowText { font-size: 1.25rem; }
